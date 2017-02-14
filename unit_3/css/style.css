@@ -1,0 +1,43 @@
+body {
+	background-color: #FFFFED;
+	text-align: left;
+	}
+
+h1 { 
+	font-family: Arial, sans-serif;
+	font-weight: bold
+	}
+
+p	{ 
+	font-family: Arial;
+	}
+
+#first {
+	font-size: 24px; 
+	font-weight: bold; 
+	text-transform: uppercase;
+	color: #61D2FF;
+	}	
+
+#slogan {
+	font-style: italic;
+	font-size: 40px;
+	}
+
+.green	{
+	color: #14A80F;
+	}
+
+.yellow	{
+	color: #F5A80F;
+	}
+.blue	{
+	color: #03B4FF;
+	}
+.red	{
+	color: #FF0000;
+	}
+ul {
+	text-align: center;
+	list-style: none;
+	}

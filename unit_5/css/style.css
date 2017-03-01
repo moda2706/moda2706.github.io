@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Fresca|Timmana|Wellfleet');
+
+body {
+	background-color: #FFFFED;
+	text-align: left;
+	}
+
+h1 { 
+	font-family: Arial, sans-serif;
+	font-weight: bold
+	}
+
+p	{ 
+	font-family: 'Timmana', sans-serif;
+	font-size: 20px;
+	line-height: 1.5em;
+	margin: 2em;
+	}
+
+#first {
+	font-family: 'Wellfleet', cursive;
+	font-size: 24px; 
+	font-weight: bold; 
+	line-height: 1.5em;
+	margin: 2em;
+	text-transform: uppercase;
+	color: #61D2FF;
+	}	
+
+#slogan {
+	font-style: italic;
+	font-size: 45px;
+	}
+
+.green	{
+	font-family: 'Fresca', sans-serif;
+	font-size: 20px;
+	color: #14A80F;
+	line-height: 1.5em;
+	margin: 2em;
+	}
+
+.yellow	{
+	font-family: 'Fresca', sans-serif;
+	font-size: 20px;
+	color: #F5A80F;
+	line-height: 1.5em;
+	margin: 2em;
+	}
+.blue	{
+	font-family: 'Fresca', sans-serif;
+	font-size: 20px;
+	color: #03B4FF;
+	line-height: 1.5em;
+	margin: 2em;
+	}
+.red	{
+	font-family: 'Fresca', sans-serif;
+	font-size: 20px;
+	color: #FF0000;
+	margin: 2em;
+	}
+ul {
+	text-align: center;
+	list-style: none;
+	}
+
+header { 
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px
+}
+
+nav { 
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px
+}
+
+footer	{ 
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px
+}
+
+
+article	{
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px
+}
+
+div, section {
+	background-color:#FFE2B8;
+    border: 1px black solid;
+    padding: 20px
+}
